@@ -1,7 +1,9 @@
 <h2 align="center">Tasks related to Unit Testing</h2>
 
 ## Use of the programme:
-<p>***</p>
+<p>Program Article</p>
+<p>The program tests the e-mail of the author of the articles, based on the number of published articles and points for them, 
+calculates the number of points and bonus for publications. </p>
 
   
 ## Technologies:
